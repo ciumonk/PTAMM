@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<Models version="1.000000">
+    <Models size="1">
+        <Model name="Skelet" dir="ARData/Models/Cat_A/Skelet" file="skelet.3ds" scale="0.022489" scaleMult="3.794724" pose="0.0889808 0.354463 -0.719883 1.98128 0.135234 0.208241" offset="0 0 0 -1.5708 0 0" />
+    </Models>
+</Models>

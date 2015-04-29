@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<Models version="1.000000">
+    <Models size="1">
+        <Model name="Monster" dir="ARData/Models/Cat_A/Monster" file="monster.3ds" scale="0.007794" scaleMult="4.854402" pose="0 0.26 0 0 0 0" offset="0 0 0 -1.5708 0 0" />
+    </Models>
+</Models>
